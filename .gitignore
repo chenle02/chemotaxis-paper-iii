@@ -1,0 +1,8 @@
+build/
+**/emails/
+**/correspondence/
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz

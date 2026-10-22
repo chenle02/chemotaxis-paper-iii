@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cite this manuscript and specify the October 20, 2026 candidate when using its revised statements."
+title: "Chemotaxis models with signal-dependent sensitivity and a logistic-type source, III: Bifurcation and spike-like solutions"
+authors:
+  - family-names: Chen
+    given-names: Le
+  - family-names: Ruau
+    given-names: Ian
+  - family-names: Shen
+    given-names: Wenxian
+url: "https://github.com/chenle02/chemotaxis-paper-iii"
+identifiers:
+  - type: url
+    value: "https://arxiv.org/abs/2610.20976v1"
+    description: "Published preprint v1; repository contains a later v2 candidate."
